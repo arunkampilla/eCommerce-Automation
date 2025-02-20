@@ -1,4 +1,4 @@
-**Ecommerce-Cypress-Automation**  
+**eCommerce-Automation using Cypress**  
 
 **Project Overview**  
 This project demonstrates a comprehensive end-to-end test automation framework for an e-commerce platform using the Cypress automation framework. It covers essential user workflows such as login, product search, cart management, and checkout, ensuring robust functional and regression testing. The framework is designed with scalability and maintainability in mind, leveraging the Page Object Model (POM) design pattern, custom commands, and advanced Cypress features.  
